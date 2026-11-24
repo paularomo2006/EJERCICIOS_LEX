@@ -1,0 +1,10 @@
++-------------------------+-------+
+| Clase de carácter       | Total |
++-------------------------+-------+
+| Letras mayúsculas       |    11 |
+| Letras minúsculas       |    18 |
+| Dígitos                 |     5 |
+| Espacios (' ' y tab)    |     8 |
+| Saltos de línea         |     2 |
+| Otros (signos, etc.)    |     2 |
++-------------------------+-------+
