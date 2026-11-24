@@ -1,0 +1,2 @@
+if (x1 == 10) { int y; }
+while contador else iffy _tmp 007 if
