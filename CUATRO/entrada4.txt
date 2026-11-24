@@ -1,0 +1,3 @@
+x1 = 42 + y
+valor 3.14 y -2.5e10
+1E-3 contador7 +15e2 12

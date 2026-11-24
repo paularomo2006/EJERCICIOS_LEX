@@ -1,0 +1,13 @@
+IDENTIFICADOR : x1
+SIMBOLO       : =
+NUMERO        : 42
+SIMBOLO       : +
+IDENTIFICADOR : y
+IDENTIFICADOR : valor
+REAL          : 3.14
+IDENTIFICADOR : y
+REAL          : -2.5e10
+REAL          : 1E-3
+IDENTIFICADOR : contador7
+REAL          : +15e2
+NUMERO        : 12
