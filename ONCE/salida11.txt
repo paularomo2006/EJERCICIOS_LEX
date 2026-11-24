@@ -1,0 +1,9 @@
+BINARIO 101                  = 5
+BINARIO 1111                 = 15
+BINARIO 0                    = 0
+NO_BINARIO 1012              (tiene dígitos distintos de 0 y 1)
+BINARIO 11111111             = 255
+BINARIO 100000               = 32
+BINARIO 1010                 = 10
+NO_BINARIO 2                 (tiene dígitos distintos de 0 y 1)
+BINARIO 0001                 = 1
