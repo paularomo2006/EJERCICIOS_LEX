@@ -1,0 +1,7 @@
+CORREO_VALIDO   : juan.perez@epn.edu.ec
+CORREO_VALIDO   : soporte@dominio.com
+CORREO_INVALIDO : usuario@sitio
+CORREO_INVALIDO : ana@dom.c
+CORREO_INVALIDO : x@y.comx1
+
+Total: 2 válido(s), 3 inválido(s)
