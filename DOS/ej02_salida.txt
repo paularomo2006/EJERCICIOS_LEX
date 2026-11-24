@@ -1,0 +1,10 @@
+Comando inicio ejecutado
+
+el semáforo dice Comando pare recibido
+
+Comando inicio ejecutado
+ Comando pare recibido
+ Comando inicio ejecutado
+
+Comando pare recibido
+ja

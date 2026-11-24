@@ -1,0 +1,4 @@
+inicio
+el semáforo dice pare
+inicio pare inicio
+pareja

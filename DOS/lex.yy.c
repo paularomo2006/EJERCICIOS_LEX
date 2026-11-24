@@ -443,11 +443,11 @@ int yy_flex_debug = 0;
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
-#line 1 "ej_dos.l"
+#line 1 "ej02_dos.l"
 /* Ejercicio 2 - dos.l : ejecución de órdenes (pare / inicio).
  *   flex ej02_dos.l && gcc lex.yy.c -o ej02 -lfl && ./ej02 < entradas/ej02.txt
  */
-#line 5 "ej_dos.l"
+#line 5 "ej02_dos.l"
 #include <stdio.h>      /* necesario para printf */
 #line 453 "lex.yy.c"
 #line 454 "lex.yy.c"
@@ -667,7 +667,7 @@ YY_DECL
 		}
 
 	{
-#line 7 "ej_dos.l"
+#line 7 "ej02_dos.l"
 
 #line 673 "lex.yy.c"
 
@@ -728,17 +728,17 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 8 "ej_dos.l"
+#line 8 "ej02_dos.l"
 printf("Comando pare recibido\n");
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
-#line 9 "ej_dos.l"
+#line 9 "ej02_dos.l"
 printf("Comando inicio ejecutado\n");
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 10 "ej_dos.l"
+#line 10 "ej02_dos.l"
 ECHO;
 	YY_BREAK
 #line 745 "lex.yy.c"
@@ -1746,7 +1746,7 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 10 "ej_dos.l"
+#line 10 "ej02_dos.l"
 
 int main()
 {
