@@ -1,0 +1,14 @@
+OPERADOR ARITMETICO  SUMA             : +
+OPERADOR RELACIONAL  MENOR_IGUAL      : <=
+OPERADOR RELACIONAL  MAYOR_IGUAL      : >=
+OPERADOR ARITMETICO  RESTA            : -
+OPERADOR ARITMETICO  MULTIPLICACION   : *
+OPERADOR ARITMETICO  DIVISION         : /
+OPERADOR RELACIONAL  IGUAL            : ==
+OPERADOR RELACIONAL  DISTINTO         : !=
+OPERADOR RELACIONAL  MENOR            : <
+OPERADOR RELACIONAL  MAYOR            : >
+NO RECONOCIDO                           : =
+NO RECONOCIDO                           : !
+
+Resumen: 4 aritméticos, 6 relacionales, 2 no reconocidos
