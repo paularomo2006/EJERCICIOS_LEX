@@ -1,0 +1,21 @@
+  IDENTIFICADOR : a
+  IDENTIFICADOR : b
+  ENTERO        : 12
+-> Lista 1: 3 elemento(s) válidos, 0 error(es)
+  IDENTIFICADOR : x1
+  ERROR: número real no permitido '3.5'
+  ERROR: símbolo no permitido '@'
+  IDENTIFICADOR : y
+-> Lista 2: 2 elemento(s) válidos, 2 error(es)
+  ENTERO        : 7
+  ERROR: elemento vacío antes de ','
+  IDENTIFICADOR : z
+-> Lista 3: 2 elemento(s) válidos, 1 error(es)
+  IDENTIFICADOR : uno
+  ERROR: falta coma antes de 'dos'
+  IDENTIFICADOR : dos
+-> Lista 4: 2 elemento(s) válidos, 1 error(es)
+  ERROR: identificador mal formado '12abc'
+  IDENTIFICADOR : k
+  ERROR: la lista termina en coma ','
+-> Lista 5: 1 elemento(s) válidos, 2 error(es)
